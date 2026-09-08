@@ -1,0 +1,6 @@
+.env
+ticket.db
+*.exe
+*.log
+.vscode/
+.env.example
